@@ -1,7 +1,5 @@
-============================================================
-                            Keylogger Project
-                     C++ | Client–Server Architecture
-============================================================
+  # Keylogger Project
+  # C++ | Client–Server Architecture
 
 OVERVIEW
 --------
